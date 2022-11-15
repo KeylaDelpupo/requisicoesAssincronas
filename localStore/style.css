@@ -1,0 +1,16 @@
+body{
+    font-size: 2rem;
+    color: brown;
+    align-items: center;
+}
+
+
+.dark-theme{   /*tema-escuro*/
+    color: whitesmoke;
+    background-color: black;
+}
+
+.white-theme{
+ color:black;
+ background-color: aliceblue;
+}
